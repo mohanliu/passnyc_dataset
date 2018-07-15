@@ -38,8 +38,8 @@
     - Student Achievement Rating
     - Average ELA Proficiency
     - Average Math Proficiency
-    - Grade 3, 4, 5, 6, 7, 8
-        - ELA, Math
+    - Grade {3, 4, 5, 6, 7, 8}
+        - {ELA, Math}
             - All Students Tested
             - 4s (_No. of students in this grade who scored a 4 in this subject_)
                 - All Students
