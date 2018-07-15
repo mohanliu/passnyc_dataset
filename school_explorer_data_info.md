@@ -4,9 +4,9 @@
 - School General info
     - School Name
     - SED code (_State Education Department_)
-    - Community School?
+    - Community School? (76 community school, 5.97%)
     - Economic Need Index (_the higher the index, the higher the need_)
-    - School Income Estimate
+    - School Income Estimate (396 null)
     - New?
 - Location info
     - Other Location Code in LCGMS
