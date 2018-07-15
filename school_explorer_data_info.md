@@ -36,7 +36,7 @@
         - Trust (_Whether the relationships between administrators, educators, students, and families are based on trust and respect_)
 - Student Scores
     - Student Achievement Rating
-    - Average ELA Proficiency
+    - Average ELA Proficiency (_ELA = English Language Arts Performance_)
     - Average Math Proficiency
     - Grade {3, 4, 5, 6, 7, 8}
         - {ELA, Math}
